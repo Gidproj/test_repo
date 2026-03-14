@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+
+# User settings
+*.vcxproj.user
+*.suo
+
+# IntelliSense
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Binary output
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Output files
+output/*.out
